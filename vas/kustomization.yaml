@@ -6,4 +6,4 @@ resources:
 - vas-ing.yaml
 images:
 - name: bluewind201/vas
-  newTag: 0.0.1
+  newTag: 0.0.2
